@@ -1,0 +1,1 @@
+In this project I am practicing my use of Trees and Sorting. Here is my practice at learning at how to use struct nodes and how to traverse a tree and the three ways I can traverse a tree: preorder, inorder, postorder traversal.
